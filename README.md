@@ -56,3 +56,6 @@ You have 5 lives left!
 
 👉 Simple, lightweight, and fun!
 
+# TODO's
+- move art and word list to seperate files ad use as modules
+- add opening ascii art and increase word list
